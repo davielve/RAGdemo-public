@@ -2,6 +2,8 @@
 
 Welcome to your local RAG (Retrieval-Augmented Generation) setup! This project provides a fully functional, private, and local AI solution, allowing you to chat with your own documents without sending any data to the cloud.
 
+<img width="493" height="530" alt="1777139716035" src="https://github.com/user-attachments/assets/9eb4727e-02fc-438a-bb17-b559ef6db080" />
+
 ---
 
 ## 🚀 Overview
